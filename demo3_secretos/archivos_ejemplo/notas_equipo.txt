@@ -1,0 +1,5 @@
+Pendientes de la semana
+1. Terminar la pantalla de pedidos.
+2. Pedirle a Luis el token: TOKEN-FALSO-abc123 para probar los pagos.
+3. Revisar por qué la tablet de la cafetería se desconecta.
+Recordatorio: nunca compartan contraseñas por chat.

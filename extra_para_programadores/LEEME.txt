@@ -1,0 +1,16 @@
+RETOS OPCIONALES PARA QUIEN SÍ PROGRAMA EN PYTHON
+
+Estos retos son los mismos temas de los demos, pero aquí tú escribes el código.
+Cada reto tiene tres niveles y un archivo de pruebas que te dice si vas bien.
+
+  reto1_validar_entradas/   Escribe el portero con lista de permitidos y un validador de IP.
+  reto2_contrasenas/        Guarda y verifica contraseñas con sal y PBKDF2.
+  reto_extra_registros/     Enmascara datos en logs y escribe tu propio buscador de secretos.
+
+Cómo se trabaja
+  1. Abre el archivo del reto (reto1.py, reto2.py o reto_extra.py) y lee las instrucciones de arriba.
+  2. Completa el nivel en el que vas y guarda.
+  3. Corre las pruebas desde la carpeta principal del taller:
+       Mac:      python3 extra_para_programadores/reto1_validar_entradas/probar_reto1.py
+       Windows:  py extra_para_programadores/reto1_validar_entradas/probar_reto1.py
+  4. Lee el RESUMEN al final: te dice qué nivel está COMPLETO y cuál sigue.
